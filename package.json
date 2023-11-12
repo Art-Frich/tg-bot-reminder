@@ -1,0 +1,17 @@
+{
+  "name": "reminder",
+  "version": "1.0.0",
+  "description": "tg-bot-reminder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ArtFrich",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "mongoose": "^8.0.0",
+    "node-schedule": "^2.1.1",
+    "telegraf": "^4.15.0"
+  }
+}
